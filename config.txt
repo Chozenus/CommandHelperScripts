@@ -628,7 +628,6 @@ assign(@pinfo, pinfo())
     sudo('//set 13')
     sudo('/region select connect4sand')
     sudo('//set 12')
-    sudo('/back')
 
 <<<
 
